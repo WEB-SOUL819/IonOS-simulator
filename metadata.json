@@ -1,0 +1,5 @@
+{
+  "name": "Apex V1",
+  "description": "A web-based simulator and code generator for Apex V1, an embedded device running IonOS.",
+  "requestFramePermissions": []
+}
